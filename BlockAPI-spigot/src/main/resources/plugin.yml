@@ -1,0 +1,8 @@
+name: BlockAPI
+version: '${project.version}'
+main: net.blocklingiii.blockapi.core.Main
+api-version: 1.18
+prefix: [ BlockAPI ]
+authors: [ BlocklingIII ]
+description: This is a Minecraft API which allows you to interact with your servers and use packets to make them communicate.
+website: https://github.com/BlocklingIII/MinecraftAPI
